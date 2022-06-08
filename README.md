@@ -22,4 +22,4 @@ To launch the game execute `./src/main.java`
 ![](image/GUI.PNG)
 
 ## Diagram view of this project
-![](DiagrammeUML.png)
+![](image/DiagrammeUML.png)
