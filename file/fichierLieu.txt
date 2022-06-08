@@ -1,0 +1,196 @@
+Batiment A et B
+0
+rose
+1
+26
+/
+Terrain de volley
+1
+rose
+0
+2
+4
+/
+IUT
+2
+rose
+1
+3
+4
+/
+Terrain de rugby
+3
+rose
+2
+4
+9
+/
+La DDR
+4
+rose
+1
+2
+3
+5
+6
+8
+/
+Louis Nell
+5
+rose
+4
+6
+/
+Direction du patrimoine INSA Lyon
+6
+rose
+4
+5
+7
+/
+BMC
+7
+bleu
+6
+8
+12
+/
+Gymnase C
+8
+bleu
+4
+7
+9
+11
+12
+/
+Stade
+9
+bleu
+3
+8
+10
+/
+CETIAT
+10
+bleu
+9
+11
+24
+/
+GCU
+11
+bleu
+8
+10
+12
+23
+/
+Amphi seguin
+12
+bleu
+7
+8
+11
+13
+/
+Batiment GM
+13
+bleu
+12
+14
+/
+Centrale thermique abandonnée
+14
+vert
+13
+15
+17
+/
+CNRS
+15
+vert
+14
+16
+17
+/
+Résidence D
+16
+vert
+15
+17
+/
+RU
+17
+vert
+14
+15
+16
+21
+/
+Double mixte 
+18
+vert
+17
+19
+/
+Quaie 43
+19
+vert
+17
+18
+20
+/
+Batiment IF
+20
+violet
+19
+21
+22
+26
+/
+Amphi Lespinasse
+21
+violet
+17
+20
+22
+/
+Batiment TC
+22
+violet
+21
+20
+23
+25
+/
+MDE
+23
+violet
+11
+22
+24
+/
+Gymnase A
+24
+violet
+10
+23
+25
+/
+CPE Lyon
+25
+violet
+24
+22
+/
+BU
+26
+violet
+20
+0
+/
+
+
+
+
