@@ -1,4 +1,4 @@
 # Pandemic
 Multiplayer game based on the board game Pandemic
 
-![](image/GUI.png)
+![](image/GUI.PNG)
